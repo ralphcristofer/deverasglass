@@ -60,7 +60,7 @@ body {
 #home {
   height: 55rem;
   background-color: #f2fcfc;
-  background-image: url("../images/bg-1.jpg");
+  background-image: url("~/images/bg-1.jpg");
   background-size: 100% 150%;
   background-repeat: no-repeat;
 }
@@ -185,7 +185,7 @@ button>i {
 
 #careers {
   /* height: 30rem;
-  background-image: url("../images/careers.jpg");
+  background-image: url("~/images/careers.jpg");
   background-size: 100% auto;
   background-repeat: no-repeat; */
 }
@@ -377,7 +377,7 @@ button>i {
     padding-bottom: 5%;
     height: 40rem;
     background-color: #f2fcfc;
-    background-image: url("../images/bg-1.jpg");
+    background-image: url("~/images/bg-1.jpg");
     background-size: 100% 150%;
     background-repeat: no-repeat;
   }
@@ -424,7 +424,7 @@ button>i {
     padding-bottom: 5%;
     height: 40rem;
     background-color: #f2fcfc;
-    background-image: url("../images/bg-1.jpg");
+    background-image: url("~/images/bg-1.jpg");
     background-size: 100% 150%;
     background-repeat: no-repeat;
   }
@@ -456,7 +456,7 @@ button>i {
   #home {
     height: 30rem;
     background-color: #f2fcfc;
-    background-image: url("../images/bg-1.jpg");
+    background-image: url("~/images/bg-1.jpg");
     background-size: 100% 150%;
     background-repeat: no-repeat;
   }
@@ -502,7 +502,7 @@ button>i {
   #home {
     height: 35rem;
     background-color: #f2fcfc;
-    background-image: url("../images/bg-1.jpg");
+    background-image: url("~/images/bg-1.jpg");
     background-size: 100% 150%;
     background-repeat: no-repeat;
   }
@@ -526,7 +526,7 @@ button>i {
   #home {
     height: 55rem;
     background-color: #f2fcfc;
-    background-image: url("../images/bg-1.jpg");
+    background-image: url("~/images/bg-1.jpg");
     background-size: 100% 150%;
     background-repeat: no-repeat;
 
