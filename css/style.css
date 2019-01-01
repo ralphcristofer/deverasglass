@@ -117,7 +117,7 @@ button>i {
 */
 #about {
   background-color: #fff;
-  background-image: url("../images/bg-2.png");
+  background-image: image("../images/bg-2.png");
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
