@@ -321,7 +321,7 @@ button>i {
     padding-bottom: 5%;
     height: 30rem;
     background-color: #f2fcfc;
-    background-image: url("../images/bg-1.jpg");
+    background-image: url("~/images/bg-1.jpg");
     background-size: 100% 150%;
     background-repeat: no-repeat;
   }
