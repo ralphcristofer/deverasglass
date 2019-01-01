@@ -60,7 +60,7 @@ body {
 #home {
   height: 55rem;
   background-color: #f2fcfc;
-  background-image: url("~/images/bg-1.jpg");
+  background-image: url("../images/bg-1.jpg");
   background-size: 100% 150%;
   background-repeat: no-repeat;
 }
